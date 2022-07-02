@@ -15,7 +15,3 @@ for word in list_of_words:
     word = "".join(list_of_w)
     final_list.append(word)
 print(" ".join(final_list))
-    
-
-
-
