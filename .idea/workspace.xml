@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e8989b7-3c60-46af-930e-79395667c7f8" name="Changes" comment="Added files">
+    <list default="true" id="4e8989b7-3c60-46af-930e-79395667c7f8" name="Changes" comment="Added Dictionaries">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.Fundamentals/08.Dictionaries/exercise/softuni_exam_results.py" beforeDir="false" afterPath="$PROJECT_DIR$/01.Fundamentals/08.Dictionaries/exercise/softuni_exam_results.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,15 +38,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Buchev\PycharmProjects\SoftUni-Python\01.Fundamentals" />
       <recent name="C:\Users\Buchev\PycharmProjects\SoftUni-Python\01.Fundamentals\08.Dictionaries\exercise" />
       <recent name="C:\Users\Buchev\PycharmProjects\SoftUni-Python\01.Fundamentals\08.Dictionaries\lab" />
       <recent name="$PROJECT_DIR$/01.Fundamentals/" />
       <recent name="$PROJECT_DIR$/01.Fundamentals/07" />
-      <recent name="$PROJECT_DIR$/01.Fundamentals/mid" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.softuni_exam_results">
-    <configuration name="company_users" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.rage_quit">
+    <configuration name="letters_change_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,11 +54,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01.Fundamentals/08.Dictionaries/exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01.Fundamentals/09.text_processing/exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01.Fundamentals/08.Dictionaries/exercise/company_users.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01.Fundamentals/09.text_processing/exercise/letters_change_numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -66,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="courses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="rage_quit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01.Fundamentals/08.Dictionaries/exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01.Fundamentals/09.text_processing/exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01.Fundamentals/08.Dictionaries/exercise/courses.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01.Fundamentals/09.text_processing/exercise/rage_quit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="force_book" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="replace_repeating_chars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +96,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01.Fundamentals/08.Dictionaries/exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01.Fundamentals/09.text_processing/exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01.Fundamentals/08.Dictionaries/exercise/force_book.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01.Fundamentals/09.text_processing/exercise/replace_repeating_chars.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="softuni_exam_results" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="string_explosion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01.Fundamentals/08.Dictionaries/exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01.Fundamentals/09.text_processing/exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01.Fundamentals/08.Dictionaries/exercise/softuni_exam_results.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01.Fundamentals/09.text_processing/exercise/string_explosion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="student_academy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="winning_ticket" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01.Fundamentals/08.Dictionaries/exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01.Fundamentals/09.text_processing/exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01.Fundamentals/08.Dictionaries/exercise/student_academy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01.Fundamentals/09.text_processing/exercise/winning_ticket.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.softuni_exam_results" />
-        <item itemvalue="Python.force_book" />
-        <item itemvalue="Python.company_users" />
-        <item itemvalue="Python.student_academy" />
-        <item itemvalue="Python.courses" />
+        <item itemvalue="Python.rage_quit" />
+        <item itemvalue="Python.letters_change_numbers" />
+        <item itemvalue="Python.winning_ticket" />
+        <item itemvalue="Python.string_explosion" />
+        <item itemvalue="Python.replace_repeating_chars" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +191,28 @@
       <option name="project" value="LOCAL" />
       <updated>1655310885206</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added Dictionaries">
+      <created>1657870096881</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657870096881</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added Dictionaries">
+      <created>1657870104195</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657870104195</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added Dictionaries">
+      <created>1657973627367</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657973627367</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -219,7 +241,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added:&#10;01.basic_syntax_conditional_statements_loops&#10;02.data_types_and_variables&#10;03.lists_basics&#10;04.functions&#10;05.list_advanced" />
     <MESSAGE value="Added files with description of the problems to be solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added files with description of the problems to be solved" />
+    <MESSAGE value="Added Dictionaries" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Dictionaries" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -245,9 +268,34 @@
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/01.Fundamentals/08.Dictionaries/exercise/force_book.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="13" />
+          <url>file://$PROJECT_DIR$/01.Fundamentals/08.Dictionaries/exercise/softuni_exam_results.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/01.Fundamentals/09.text_processing/lab/substring.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/01.Fundamentals/09.text_processing/exercise/character_multiplier.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/01.Fundamentals/09.text_processing/exercise/winning_ticket.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/01.Fundamentals/09.text_processing/exercise/letters_change_numbers.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/01.Fundamentals/09.text_processing/exercise/rage_quit.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

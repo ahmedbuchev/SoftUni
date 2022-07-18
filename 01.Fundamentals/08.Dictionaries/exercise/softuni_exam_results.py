@@ -4,19 +4,19 @@ submissions = {}
 while not command == "exam finished":
     if "banned" not in command:
         username, language, points = command.split("-")
+        points = int(points)
 
         if username not in results:
-            results[username] = {language: points}
-
+            results[username] = {"language": [language], "points": [points]}
         else:
-            if language not in results[username]:
-                results[username][language] = points
+            if points > results[username]["points"][0]:
+                results[username] = {"language": [language], "points": [points]}
 
-            if points > results[username][language]:
-                results[username][language] = points
         if language not in submissions:
-            submissions[language] = 0
-        submissions[language] += 1
+            submissions[language] = 1
+        else:
+            submissions[language] += 1
+
     else:
         username = command.split("-")[0]
         if username in results:
@@ -25,8 +25,7 @@ while not command == "exam finished":
 
 print("Results:")
 for key, value in results.items():
-    for k, v in value.items():
-        print(f"{key} | {value[k]}")
+    print(f"{key} | {value['points'][0]}")
 
 print("Submissions:")
 for key, value in submissions.items():
