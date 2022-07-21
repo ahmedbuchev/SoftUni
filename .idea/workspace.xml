@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e8989b7-3c60-46af-930e-79395667c7f8" name="Changes" comment="Added files for Mid Exam and Objects and Classes">
-      <change afterPath="$PROJECT_DIR$/01.Fundamentals/10.regex/lab/match_dates.py" afterDir="false" />
+    <list default="true" id="4e8989b7-3c60-46af-930e-79395667c7f8" name="Changes" comment="Added RefEx lab">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01.Fundamentals/10.regex/lab/math_dates.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.Fundamentals/10.regex/lab/.~lock.09-RegEx-Lab.docx#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.Fundamentals/10.regex/lab/match_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/01.Fundamentals/10.regex/lab/match_numbers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +19,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Ahmed Buchev &lt;buchev@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -46,8 +51,8 @@
       <recent name="$PROJECT_DIR$/01.Fundamentals/mid" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.match_dates">
-    <configuration name="articles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.extract_emails">
+    <configuration name="extract_emails" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -55,11 +60,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01.Fundamentals/07.objects_and_classes/exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01.Fundamentals/10.regex/exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01.Fundamentals/07.objects_and_classes/exercise/articles.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01.Fundamentals/10.regex/exercise/extract_emails.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,7 +73,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="inventory" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="extract_the_links" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,11 +81,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01.Fundamentals/07.objects_and_classes/exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01.Fundamentals/10.regex/exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01.Fundamentals/07.objects_and_classes/exercise/inventory.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01.Fundamentals/10.regex/exercise/extract_the_links.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="match_dates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="find_occurrences_of_word_in_sentence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,11 +102,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01.Fundamentals/10.regex/lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01.Fundamentals/10.regex/exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01.Fundamentals/10.regex/lab/match_dates.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01.Fundamentals/10.regex/exercise/find_occurrences_of_word_in_sentence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="movie" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="find_variable_names_in_sentences" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,11 +123,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01.Fundamentals/07.objects_and_classes/exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01.Fundamentals/10.regex/exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01.Fundamentals/07.objects_and_classes/exercise/movie.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01.Fundamentals/10.regex/exercise/find_variable_names_in_sentences.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="vehicle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="furniture" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,11 +144,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01.Fundamentals/07.objects_and_classes/exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01.Fundamentals/10.regex/exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01.Fundamentals/07.objects_and_classes/exercise/vehicle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01.Fundamentals/10.regex/exercise/furniture.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.match_dates" />
-        <item itemvalue="Python.movie" />
-        <item itemvalue="Python.vehicle" />
-        <item itemvalue="Python.articles" />
-        <item itemvalue="Python.inventory" />
+        <item itemvalue="Python.extract_emails" />
+        <item itemvalue="Python.extract_the_links" />
+        <item itemvalue="Python.furniture" />
+        <item itemvalue="Python.find_occurrences_of_word_in_sentence" />
+        <item itemvalue="Python.find_variable_names_in_sentences" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655310885206</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added RefEx lab">
+      <created>1658239767550</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658239767550</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -220,7 +232,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added:&#10;01.basic_syntax_conditional_statements_loops&#10;02.data_types_and_variables&#10;03.lists_basics&#10;04.functions&#10;05.list_advanced" />
     <MESSAGE value="Added files with description of the problems to be solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added files with description of the problems to be solved" />
+    <MESSAGE value="Added files for Mid Exam and Objects and Classes" />
+    <MESSAGE value="Added RefEx lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added RefEx lab" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
