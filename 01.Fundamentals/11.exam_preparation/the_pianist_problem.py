@@ -3,9 +3,8 @@ pieces = {}
 
 for index in range(num):
     piece, composer, key = input().split("|")
-    if piece not in pieces:
-        pieces[piece] = {}
-    pieces[piece][composer] = key
+
+    pieces[piece] = {'composer': composer, 'key': key}
 
 command = input()
 while not command == "Stop":
@@ -13,32 +12,33 @@ while not command == "Stop":
     cmd = command_unpacked[0]
 
     if cmd == "Add":
-        piece, composer, key = command_unpacked[1], command_unpacked[2], command_unpacked[3]
+        piece, composer, key = command_unpacked[1:]
+
         if piece in pieces:
             print(f"{piece} is already in the collection!")
         else:
-            pieces[piece] = {}
-            pieces[piece][composer] = key
+            pieces[piece] = {'composer': composer, 'key': key}
             print(f"{piece} by {composer} in {key} added to the collection!")
 
     elif cmd == "Remove":
         piece = command_unpacked[1]
+
         if piece in pieces:
-            print(f"Successfully removed {piece}!")
             del pieces[piece]
+            print(f"Successfully removed {piece}!")
         else:
             print(f"Invalid operation! {piece} does not exist in the collection.")
 
     elif cmd == "ChangeKey":
-        piece, new_key = command_unpacked[1], command_unpacked[2]
+        piece, new_key = command_unpacked[1:]
+
         if piece in pieces:
+            pieces[piece]['key'] = new_key
             print(f"Changed the key of {piece} to {new_key}!")
-            pieces[piece][composer] = new_key
         else:
             print(f"Invalid operation! {piece} does not exist in the collection.")
     command = input()
 
 for piece, value in pieces.items():
-    for composer, key in value.items():
-        print(f"{piece} -> Composer: {composer}, Key: {key}")
+    print(f"{piece} -> Composer: {value['composer']}, Key: {value['key']}")
 
