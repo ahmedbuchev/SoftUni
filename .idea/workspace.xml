@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e8989b7-3c60-46af-930e-79395667c7f8" name="Changes" comment="Added RefEx lab">
+    <list default="true" id="4e8989b7-3c60-46af-930e-79395667c7f8" name="Changes" comment="Prep Exam - The pianist - resolved">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_7_2022___8_47__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_7_2022_г__8_47_[Changes]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01.Fundamentals/11.exam_preparation/the_pianist_problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/01.Fundamentals/11.exam_preparation/the_pianist_problem.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,8 +46,8 @@
       <recent name="$PROJECT_DIR$/01.Fundamentals/07" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.the_pianist_problem">
-    <configuration name="match_full_name" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.test">
+    <configuration name="boss_rush" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,11 +55,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01.Fundamentals/10.regex/lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01.Fundamentals/12.final_exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01.Fundamentals/10.regex/lab/match_full_name.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01.Fundamentals/12.final_exam/boss_rush.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +68,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="math_dates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="decrypting_commands" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,11 +76,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01.Fundamentals/10.regex/lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01.Fundamentals/12.final_exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01.Fundamentals/10.regex/lab/math_dates.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01.Fundamentals/12.final_exam/decrypting_commands.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="math_phone_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="hero_recruitment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01.Fundamentals/10.regex/lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01.Fundamentals/12.final_exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01.Fundamentals/10.regex/lab/math_phone_number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01.Fundamentals/12.final_exam/hero_recruitment.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,11 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01.Fundamentals/09.text_processing/exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01.Fundamentals/12.final_exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01.Fundamentals/09.text_processing/exercise/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01.Fundamentals/12.final_exam/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.the_pianist_problem" />
-        <item itemvalue="Python.math_dates" />
-        <item itemvalue="Python.math_phone_number" />
-        <item itemvalue="Python.match_full_name" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.hero_recruitment" />
+        <item itemvalue="Python.boss_rush" />
+        <item itemvalue="Python.decrypting_commands" />
+        <item itemvalue="Python.the_pianist_problem" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +220,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658155902423</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Prep Exam - The pianist - resolved">
+      <created>1659074311788</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1659074311788</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Prep Exam - The pianist - resolved">
+      <created>1659074336251</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1659074336251</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -250,7 +265,8 @@
     <MESSAGE value="Added files with description of the problems to be solved" />
     <MESSAGE value="Added Dictionaries" />
     <MESSAGE value="Added Text Processing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Text Processing" />
+    <MESSAGE value="Prep Exam - The pianist - resolved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Prep Exam - The pianist - resolved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
