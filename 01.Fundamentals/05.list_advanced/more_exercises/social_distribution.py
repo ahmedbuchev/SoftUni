@@ -11,6 +11,7 @@ for index in range(len(populations_wealth)):
             populations_wealth[index_of_wealthiest] -= diff
         else:
             is_distribution_possible = False
+            break
 
 if is_distribution_possible:
     print(populations_wealth)
